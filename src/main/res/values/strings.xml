@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tic-tac-toc</string>
+    <string name="online">Online</string>
+    <string name="multi_players">Multi players</string>
+    <string name="single">Single</string>
+</resources>
